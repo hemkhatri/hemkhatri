@@ -28,7 +28,7 @@ I am a **Backend Engineer** specializing in building scalable, secure, and robus
 - **Key Feature:** Used WebSockets for instant message delivery with under 50ms latency.
 
 ### 📊 GitHub Metrics
-[![Anurag's GitHub stats](https://vercel.app[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical)](https://github.com)
+[![Anurag's GitHub stats](https://vercel.app[hemkhatri]&show_icons=true&theme=radical)](https://github.com)
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [://linkedin.com](https://://linkedin.com)
